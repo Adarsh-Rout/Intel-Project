@@ -27,11 +27,6 @@ Prerequisites
 * Numpy
 * Matplotlib
 * MoviePy
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/bobthesiddharth/Vehicle-Cut-in-Detection.git
-cd Vehicle-Cut-in-Detection
 Install Dependencies
 bash
 Copy code
