@@ -45,7 +45,7 @@ bash
 Copy code
 python detect_cutin.py --input sample_videos/highway.mp4 --output output_videos/highway_output.mp4
 Dataset (Dataset can be downloaded from https://idd.insaan.iiit.ac.in/dataset/download/)
-For training and testing, you can use open datasets like KITTI or BDD100K. Make sure to format the dataset properly and update the paths in the configuration files.
+Make sure to format the dataset properly and update the paths in the configuration files.
 Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md for more information on how to contribute.
 Steps to Contribute
@@ -54,6 +54,7 @@ Steps to Contribute
 3. Commit your changes (git commit -am 'Add some feature').
 4. Push to the branch (git push origin feature/your-feature).
 5. Create a new Pull Request.
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgements
